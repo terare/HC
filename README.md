@@ -27,4 +27,4 @@ Then, run `hierarchichal_clustering.py` to obtain a dendrogram.
   
 * Reo Terauchi
 * Kawakami Lab @ Tokyo Tech.
-* terauchi.r.aa@m.titech.ac.jp
+* terauchi.r.aa[at]m.titech.ac.jp
