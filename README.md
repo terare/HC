@@ -3,7 +3,7 @@ Using these files, you can input Imagenet-1k images to each image encoder, perfo
 A confusion matrix compared to the ground truth can also be obtained. 
 
 # DEMO
- ![CLIP](CLIP.png)
+ ![dengra](dengra.png)
  
 # Requirement
  
