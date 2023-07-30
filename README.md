@@ -22,7 +22,7 @@ pip install clip pytorch_pretrained_vit timm
  
 # Usage
  
-First, run 'extract_feature.py' and save the averaged feature for each class.
+First, run `extract_feature.py` and save the averaged feature for each class.
 Then, run hierarchichal_clustering.py to obtain a dendrogram.
  
 # Note
