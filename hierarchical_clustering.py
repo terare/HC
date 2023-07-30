@@ -74,7 +74,7 @@ if __name__ == '__main__':
     plt.show()
     if not os.path.isdir('results'):
         os.makedirs('results')
-    plt.savefig("results/dengra_{}.png".format(args.model,args.semantic_layer))
+    plt.savefig("results/dengra_{}.png".format(args.model))
 
     # Output the confusion matrix
     if args.print_confusion_matrix == True:
