@@ -22,13 +22,8 @@ pip install clip pytorch_pretrained_vit timm
  
 # Usage
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
-```
+First, run 'extract_feature.py' and save the averaged feature for each class.
+Then, run hierarchichal_clustering.py to obtain a dendrogram.
  
 # Note
  
