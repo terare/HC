@@ -3,6 +3,7 @@ Using these files, you can input Imagenet-1k images to each image encoder, perfo
 A confusion matrix compared to the ground truth can also be obtained. 
 
 # DEMO
+The dendrogram obtained by executing `hierarchichal_clustering.py`.
  ![dengra](dengra.png)
  
 # Requirement
@@ -26,5 +27,5 @@ Then, run `hierarchichal_clustering.py` to obtain a dendrogram.
 # Author
   
 * Reo Terauchi
-* Kawakami Lab @ Tokyo Tech.
+* Kawakami Lab@Tokyo Tech.
 * terauchi.r.aa[at]m.titech.ac.jp
